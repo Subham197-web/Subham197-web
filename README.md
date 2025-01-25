@@ -1,43 +1,65 @@
+<h1 align="center">Hi 👋, I'm Subham Rakshit</h1>
+<h3 align="center">An Electronics and Communication Engineering student passionate about coding, cybersecurity, and DSA!</h3>
 
-<!# Hi there 👋, I'm Subham Rakshit  
+- 🌱 I’m currently learning **DSA** and improving my **Python, C, and C++ skills.**
 
-I'm a **B.Tech student in Electronics and Communication Engineering** passionate about **coding**, **cybersecurity**, and constantly exploring **Data Structures and Algorithms (DSA)**.  
+- 🔭 I’m currently working on **Solving DSA problems and exploring cybersecurity.**
 
----
+- 💡 I’m looking to collaborate on **Open-source projects in coding and security.**
 
-## 🚀 About Me:
-- 🌱 **I’m currently learning**: DSA and improving my Python, C, and C++ skills.  
-- 🔭 **I’m currently working on**: Solving DSA problems and exploring cybersecurity.  
-- 💡 **I’m looking to collaborate on**: Open-source projects in coding and security.  
-- 🤔 **I’m looking for help with**: Advanced DSA concepts and practical cybersecurity projects.  
-- ⚡ **Fun fact**: I can spend hours debugging a problem, only to realize I forgot a semicolon!  
+- 🤔 I’m looking for help with **Advanced DSA concepts and practical cybersecurity projects.**
 
----
-
-## 🛠️ Skills:
-- **Languages for DSA**: Python, C++, Java  
-- **Languages for Cybersecurity**: Python, Go (Golang), PowerShell, Bash  
-- **Tools**: Git, VS Code, Linux  
-- **Areas of Interest**: Coding, Cybersecurity, DSA  
+- ⚡ Fun fact: **I can spend hours debugging a problem, only to realize I forgot a semicolon!**
 
 ---
 
-## 📈 GitHub Stats:
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subham197&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham197&layout=compact&theme=dark)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/Subham-Rakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/Subham197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="mailto:subhamrakshit2005@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 📫 How to Reach Me:
-- 📧 Email: [subhamrakshit2005@gmail.com](mailto:subhamrakshit2005@gmail.com)  
-- 🌐 LinkedIn: [Subham Rakshit](https://www.linkedin.com/in/subham-rakshit-7a2087320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 💻 GitHub: [Subham197](https://github.com/Subham197)  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <!-- DSA Languages -->
+  <strong>Languages for DSA:</strong>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <br><br>
+
+  <!-- Cybersecurity Languages -->
+  <strong>Languages for Cybersecurity:</strong>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> 
+  <br><br>
+
+  <!-- Tools -->
+  <strong>Tools:</strong>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</p>
 
 ---
 
-### Projects:
-- 🌟 **DSA Practice**: A collection of solved DSA problems.  
-- 🔒 **Cybersecurity Explorations**: Scripts and tools for exploring cybersecurity basics.  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Subham197&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
------
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham197&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Subham197&label
