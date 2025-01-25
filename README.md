@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there 👋, I'm Subham Rakshit  
+
+<!# Hi there 👋, I'm Subham Rakshit  
 
 I'm a **B.Tech student in Electronics and Communication Engineering** passionate about **coding**, **cybersecurity**, and constantly exploring **Data Structures and Algorithms (DSA)**.  
 
@@ -10,12 +10,13 @@ I'm a **B.Tech student in Electronics and Communication Engineering** passionate
 - 🔭 **I’m currently working on**: Solving DSA problems and exploring cybersecurity.  
 - 💡 **I’m looking to collaborate on**: Open-source projects in coding and security.  
 - 🤔 **I’m looking for help with**: Advanced DSA concepts and practical cybersecurity projects.  
-- ⚡ **Fun fact**: I love solving puzzles and exploring new tech challenges!  
+- ⚡ **Fun fact**: I can spend hours debugging a problem, only to realize I forgot a semicolon!  
 
 ---
 
 ## 🛠️ Skills:
-- **Languages**: Python, C, C++  
+- **Languages for DSA**: Python, C++, Java  
+- **Languages for Cybersecurity**: Python, Go (Golang), PowerShell, Bash  
 - **Tools**: Git, VS Code, Linux  
 - **Areas of Interest**: Coding, Cybersecurity, DSA  
 
@@ -28,9 +29,9 @@ I'm a **B.Tech student in Electronics and Communication Engineering** passionate
 ---
 
 ## 📫 How to Reach Me:
-- GitHub: [Subham197](https://github.com/Subham197)  
-- Email: itsvqin@gmail.com  
-- LinkedIn: [Your LinkedIn URL]  
+- 📧 Email: [subhamrakshit2005@gmail.com](mailto:subhamrakshit2005@gmail.com)  
+- 🌐 LinkedIn: [Subham Rakshit](https://www.linkedin.com/in/subham-rakshit-7a2087320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💻 GitHub: [Subham197](https://github.com/Subham197)  
 
 ---
 
@@ -38,8 +39,7 @@ I'm a **B.Tech student in Electronics and Communication Engineering** passionate
 - 🌟 **DSA Practice**: A collection of solved DSA problems.  
 - 🔒 **Cybersecurity Explorations**: Scripts and tools for exploring cybersecurity basics.  
 
----
-<!--
+-----
 **Subham197-web/Subham197-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
