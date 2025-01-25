@@ -2,7 +2,7 @@
 <h3 align="center">An Electronics and Communication Engineering student passionate about coding, cybersecurity, and DSA!</h3>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Developer Cartoon" width="600" height="300"/>
+  <img src="https://i.ibb.co/QC2MybR/hacker-operating-laptop-cartoon.png" alt="Hacker Operating Laptop" width="600" height="300"/>
 </p>
 
 - 🌱 I’m currently learning **DSA** and improving my **Python, C, and C++ skills.**
