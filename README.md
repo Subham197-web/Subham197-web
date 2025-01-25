@@ -2,7 +2,7 @@
 <h3 align="center">An Electronics and Communication Engineering student passionate about coding, cybersecurity, and DSA!</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyoz/coder-image/master/code.gif" alt="Coder" width="600" height="300"/>
+  <img src="YOUR_IMAGE_URL_HERE" alt="Coder" width="600" height="300"/>
 </p>
 
 - 🌱 I’m currently learning **DSA** and improving my **Python, C, and C++ skills.**
@@ -30,32 +30,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <!-- DSA Languages -->
-  <strong>Languages for DSA:</strong>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <br><br>
-
-  <!-- Cybersecurity Languages -->
-  <strong>Languages for Cybersecurity:</strong>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> 
-  <br><br>
-
-  <!-- Additional Tools -->
-  <strong>Additional Tools:</strong>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> 
+  <!-- Tools and Languages as above -->
 </p>
 
 ---
